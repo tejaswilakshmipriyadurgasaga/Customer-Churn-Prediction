@@ -15,7 +15,7 @@ This project predicts customer churn using Machine Learning.
 - Random Forest Classifier
 
 ## Results
-- Accuracy: 79.8%
+- Accuracy: 78.6%
 
 ## Features
 - Data Cleaning
